@@ -1,0 +1,17 @@
+프로젝트 2번 + HW/WS
+슬라이드
+
+HTML - 기본 구조/ 시맨틱 태그/자주 사용
+CSS 
+- 선택자, 프로퍼티(키워드/단위/색 등)
+- Box-model
+-display
+-font
+-position
+
+flex는 안봐도됨!!!!!!!!!!!!!!!!
+
+bootstrap
+- spacing  ( mt-5 이면 몇rem 몇 픽셀   3rem -> 16X3 -> 48px)
+- color
+- gird system
